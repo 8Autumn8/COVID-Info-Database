@@ -1,0 +1,50 @@
+California>37253956
+Texas>25145561
+New York>19378104
+Florida>18801311
+Illinois>1283063
+Pennsylvania>12702379
+Ohio>11536502
+Michigan>9883635
+Georgia>9687653
+North Carolina>9535475
+New Jersey>8791894
+Virginia>8001024
+Washington>6724540
+Massachusetts>6547629
+Indiana>6483800
+Tennessee>6346110
+Arizona>6329013
+Missouri>5988927
+Maryland>5773552
+Wisconsin>5686986
+Minnesota>5303925
+Colorado>5029196
+Alabama>4779735
+South Carolina>4625364
+Louisiana>4533372
+Kentucky>4339362
+Oregon>3831074
+Oklahoma>3751354
+Connecticut>3574097
+Iowa>3046350
+Mississippi>2967297
+Arkansas>2915921
+Kansas>2853118
+Utah>2763885
+Nevada>2700551
+New Mexico>2059180
+West Virginia>1852996
+Nebraska>1826341
+Idaho>1567582
+Hawaii>1360301
+Maine>1328361
+New Hampshire>1316472
+Rhode Island>1052567
+Montana>989415
+Delaware>897934
+South Dakota>814180
+Alaska>710231
+North Dakota>672591
+Vermont>625741
+Wyoming>563626
